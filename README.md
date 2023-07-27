@@ -1,4 +1,4 @@
-## Oiii eu sou a Maria Eduarda, entusiasta da tecnologia!
+##Oi, me chamo Maria Eduarda!
 <div>
 <div align="center">
   <a href="https://github.com/eduardasouzza">
